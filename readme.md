@@ -12,4 +12,5 @@ api found [here](https://github.com/codetheweb/tuyapi). All the web interface do
 - Jquery
 - Bootstrap
 - NodeJS
+- [TuyaAPI](https://github.com/codetheweb/tuyapi)
 
